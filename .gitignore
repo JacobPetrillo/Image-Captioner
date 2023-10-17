@@ -1,0 +1,9 @@
+#MS COCO Dataset
+data/train2017/*
+data/val2017/*
+data/test2017/*
+data/annotations/*
+
+#Flickr Datasets
+data/flickr8k/*
+data/flickr30k/*
